@@ -29,16 +29,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
+- Markdown
 
 ## 💻 Projeto
 
 O Projeto Base HTML é uma página web para servir de base para os próximos projetos de front-end feitos para cursos, testes entre outros.
 
-🔗 - [Visite o projeto](https://renancassiano-br.github.io/base-html)
+⚠️Alguns links desse arquivo, são apenas de referência, ou seja, podem não funcionar. Obrigado pela compreensão.
+
+🔗 - [Visite o projeto](https://renancassiano-br.github.io/base-html/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](#/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://figma.com/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
