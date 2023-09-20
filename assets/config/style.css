@@ -1,5 +1,17 @@
+/* RESET */
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+:root {
+  /* alterando padrão de fonte para 10px com base no padrão de navegador que é 16px */
+  font-size: 62.5%;
+}
+
+/* GERAL */
+body {
+  /* deixando a fonte no padrão de 16px, após o RESET */
+  font-size: 1.6rem;
 }
